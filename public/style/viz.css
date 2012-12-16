@@ -1,0 +1,39 @@
+body{
+  font-family: 'helvetica';
+}
+
+svg{
+}
+
+.is-hidden{
+  display: none;
+}
+
+section.content{
+  margin: 20px 0;
+  overflow: auto;
+}
+#viz-education, #viz-target{
+  width: 600px;
+  height: 600px;
+  background: #e3e3e3;
+  padding: 40px;
+  float: left
+}
+#viz-text{
+  float: left;
+  background: #f7f7f7;
+  width: 400px;
+  height: 700px;
+  border: 1px solid #e3e3e3;
+  margin-left: 20px;
+  font-size: 10px;
+}
+
+select{
+  width: 200px; 
+  padding: 2px 6px;
+  margin-right: 20px;
+
+}
+
