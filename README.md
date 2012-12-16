@@ -1,4 +1,9 @@
-iceberg_view
-============
+##Iceberg View (initial spike)
+A base-app to extract svg charts for the Iceberg View of Page Site Metrics.
 
-Iceberg View (spike)
+CodeBits 2012 slides :
+[Tackle Latency at the Front](http://www.inlineloop.com/codebits/tackling_latency_at_the_front_ads_codebits2012.pdfhttp://url.com/ )
+
+![Iceberg View](public/img/ic1.jpg "Lonely Planet Hotels, Iceberg VIew")
+
+
